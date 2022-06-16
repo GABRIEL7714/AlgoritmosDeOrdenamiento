@@ -4,5 +4,5 @@ utilizando dos algoritmos conocidos:
 - Insertion Sort
 - Bubble sort
 
-El programa muestra un menu de opciones, para escoger un algortimo para ordenar la lista de numeros
-Concluye con la impresion de la lista ordenada de numeros 
+El programa muestra un menu de opciones, para escoger un algortimo para ordenar la lista de numero
+, este concluye con la impresion de la lista de numeros ordeanada 
