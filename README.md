@@ -4,5 +4,5 @@ utilizando dos algoritmos conocidos:
 - Insertion Sort
 - Bubble sort
 
-El programa muestra un menu de opciones, para escoger un algortimo para ordenar la lista de numero
-, este concluye con la impresion de la lista de numeros ordenada
+El programa toma una lista con diferente cantidad de elementos(n)  elegidos de manera aleatoria  y 
+calcula el tiempo de ejecucion del programa dependiendo del valor de n, esto lo hace con ambos algoritmos de ordenamiento
