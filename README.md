@@ -5,4 +5,4 @@ utilizando dos algoritmos conocidos:
 - Bubble sort
 
 El programa muestra un menu de opciones, para escoger un algortimo para ordenar la lista de numero
-, este concluye con la impresion de la lista de numeros ordeanada 
+, este concluye con la impresion de la lista de numeros ordenada
